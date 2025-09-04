@@ -19,14 +19,14 @@
 - Kiinnostuksen kohteina tietokoneet ja tietotekniikka.
 
 ```
-print(Hello everyone!)
+print("Hello everyone!")
 ```
 ---
-| Päivä       | Säätila     |
-|-------------|-------------|
-| Maanantai   | Aurinkoinen |
-| Tiistai     | Pilvinen    |
-| Keskiviikko | Sateinen    |
+| Fiilis       | Check        |
+|--------------|:------------:|
+| Motivoitunut | ✅          |
+| Kiinnostunut | ✅          |
+| Innostunut   | ✅          |
 
 ---
 **[Link to my GitHub profile](https://github.com/JJDyels)**
